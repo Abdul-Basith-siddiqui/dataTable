@@ -1,5 +1,9 @@
 ### Live : https://incomparable-pony-ed9d6b.netlify.app/
 
+The project uses Redux Toolkit, a popular library for managing state in React applications. It also uses Tailwind CSS, a popular utility-first CSS framework.
+React component that displays a table of data and allows the user to edit and add data. It uses Redux Toolkit to manage state and Tailwind CSS for styling. The component defines functions for handling edit, save, and add operations, and renders the table with inputs and buttons for these operations. The component accesses data from the Redux store using the useSelector hook and dispatches actions to update the store using the useDispatch hook.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
